@@ -1,0 +1,29 @@
+h1 {
+  font-family: 'Turret Road', cursive;
+}
+body{
+  text-align: center;
+  background-color: blue;
+}
+
+/*
+ tags are plain
+ classes start with .
+ ids start with #
+*/
+
+.container{
+  background: lightblue;
+  margin: 0px 60px;
+  padding: 50px;
+} 
+
+#answer {
+  font-family: 'Turret Road', cursive;
+  color: white;
+  font-size: 32px;
+  height: 10px;
+  background: lightblue;
+  margin: 3px 60px;
+  
+}
