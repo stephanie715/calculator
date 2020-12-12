@@ -1,3 +1,6 @@
+// this code will use jquery to select values from the inout elements and check if the user got them right
+
+
 $("form").submit(function(event){
   // do not refresh
   event.preventDefault();
